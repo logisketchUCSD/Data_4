@@ -1,0 +1,1 @@
+I am randomly pulling one of the users for each gate into a separate test directory, and putting the rest of the users in a train directory.
